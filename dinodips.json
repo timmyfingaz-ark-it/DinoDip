@@ -1,0 +1,30 @@
+{
+"DinoDipConfig": {
+"alwaysallowtaming": [
+"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
+],
+"weeksarrays": [
+{
+"weekforoptions": [
+{
+"dino": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
+"chancetodrop": 0.2
+},
+{
+"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
+"chancetodrop": 0.2
+},
+{
+"dino":"/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",,
+"chancetodrop": 0.2
+}
+{
+"dino":"/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",,
+"chancetodrop": 0.9
+}
+],
+"dipstogive": 2
+}
+]
+}
+}
