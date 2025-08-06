@@ -15,11 +15,11 @@
 "chancetodrop": 0.2
 },
 {
-"dino":"/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",,
+"dino":"/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
 "chancetodrop": 0.2
 }
 {
-"dino":"/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",,
+"dino":"/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
 "chancetodrop": 0.9
 }
 ],
