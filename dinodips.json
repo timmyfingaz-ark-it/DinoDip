@@ -18,10 +18,18 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
+                        "chancetodrop": 0.2
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 2
+                "dipstogive": 5
             },
              {
                 "weekforoptions": [
@@ -38,7 +46,7 @@
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 2
+                "dipstogive": 3
             }
         ]
     }
