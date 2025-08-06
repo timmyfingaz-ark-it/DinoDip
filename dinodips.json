@@ -63,10 +63,6 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
                         "chancetodrop": 0.7
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
-                        "chancetodrop": 0.7
                     }
                 ],
                 "dipstogive": 2
