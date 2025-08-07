@@ -70,19 +70,20 @@
              {
                 "weekforoptions": [
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
-                        "chancetodrop": 0.2
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
-                        "chancetodrop": 0.2
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
-                        "chancetodrop": 0.9
+                        "chancetodrop": 0.7
                     }
                 ],
-                "dipstogive": 2
+                "dipstogive": 1
+            },
+            {
+                "weekforoptions": [
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
+                        "chancetodrop": 0.7
+                    }
+                ],
+                "dipstogive": 1
             }
         ]
     }
