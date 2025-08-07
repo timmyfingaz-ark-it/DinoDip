@@ -14,15 +14,15 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.1
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.1
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.1
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
@@ -38,7 +38,7 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_Unicorn_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.1
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP_C",
@@ -62,10 +62,10 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.1
                     }
                 ],
-                "dipstogive": 2
+                "dipstogive": 3
             },
              {
                 "weekforoptions": [
