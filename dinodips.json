@@ -84,10 +84,6 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
                         "chancetodrop": 0.9
                     },
@@ -105,11 +101,79 @@
             {
                 "weekforoptions": [
                     {
+                        "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
                         "dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
-                        "chancetodrop": 0.7
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Dimetro/Dimetro_Character_BP.Dimetro_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Doed/Doed_Character_BP.Doed_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_Unicorn_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Pachyrhino/Pachyrhino_Character_BP.Pachyrhino_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+                        "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 1
+                "dipstogive": 5
             },
             {
                 "weekforoptions": [
