@@ -257,9 +257,21 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
                         "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Archelon/Archelon_Character_BP.Archelon_Character_BP_C",
+                        "chancetodrop": 0.9
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Rhino/Rhino_Character_BP.Rhino_Character_BP_C",
+                        "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 2
             },
             {
                 "weekforoptions": [
