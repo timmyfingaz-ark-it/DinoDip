@@ -235,15 +235,7 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
@@ -252,10 +244,6 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
