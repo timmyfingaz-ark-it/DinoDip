@@ -361,10 +361,6 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
                         "chancetodrop": 0.9
                     },
@@ -378,10 +374,6 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
                         "chancetodrop": 0.9
                     },
                     {
